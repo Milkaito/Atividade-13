@@ -1,0 +1,1 @@
+o valor 100.0 em centímetros corresponde a 0.0254 valor em polegadas.
